@@ -1,5 +1,1 @@
-![8](https://user-images.githubusercontent.com/89897430/156189504-da328f94-10aa-484d-bb35-47d2cb3fd805.png)
-![tugas](https://user-images.githubusercontent.com/89897430/156189512-4e0f7392-2ec8-47e7-a633-c22f83b47abf.png)
-# 02-basic-flutter![1](https://user-images.githubusercontent.com/89897430/156183112-68d9c6f2-d17f-47e1-8b1c-6f6ddc8d1fdd.png)
-![2](https://user-images.githubusercontent.com/89897430/156183156-474005a7-4ed5-4c07-bdb2-845d89eb7787.png)
-![3](https://user-images.githubusercontent.com/89897430/156183221-e05fa517-a538-434e-ab5f-6e5ee81af33a.png)
+
